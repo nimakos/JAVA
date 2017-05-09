@@ -1,1 +1,1 @@
-# CashRegister program
+# CashRegister Program
