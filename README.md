@@ -1,1 +1,1 @@
-# JAVA
+# CashRegister program
